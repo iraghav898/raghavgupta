@@ -10,10 +10,10 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently building **EduNFT** – a decentralized platform for verified academic NFTs  
-- 🌱 Learning deeper into **ZK-SNARKs, Hyperledger Fabric**, and **Solana development**
+- 🌱 Learning deeper into **RemixIde, Hyperledger Fabric**, and **Solana development**
 - 💬 Ask me about **Solidity, Hardhat, Rust, Web3.js, IPFS & Smart Contracts**
-- 🌐 Portfolio coming soon at **[raghavgupta.dev](#)** *(put your site here)*
-- 📫 Reach me at **raghavgupta.blockchain@gmail.com**
+- 🌐 Portfolio coming soon at **[raghavgupta.dev](#)**
+- 📫 Reach me at **rg0257245@gmail.com**
 - ⚡ Fun Fact: *I break blockchains before breakfast ☕*
 
 ---
