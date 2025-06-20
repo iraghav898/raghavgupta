@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently building **EduNFT** – a decentralized platform for verified academic NFTs  
-- 🌱 Learning deeper into **RemixIde, Hyperledger Fabric**, and **Solana development**
+- 🌱 Learning deeper into **Remix IDE, Hyperledger Fabric**, and **Solana development**
 - 💬 Ask me about **Solidity, Hardhat, Rust, Web3.js, IPFS & Smart Contracts**
 - 🌐 Portfolio coming soon at **[raghavgupta.dev](#)**
 - 📫 Reach me at **rg0257245@gmail.com**
@@ -20,40 +20,29 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
 </p>
-
-
-#### 🖼️ Frontend & UI
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</p>
-
-
-
----
-
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="left">
- 
-  <a href="www.linkedin.com/in/raghav-gupta-381690284" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://instagram.com/raghavgupta_03" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" width="30" height="30"/></a>
-  <a href="https://dev.to/raghavgupta" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" width="30" height="30"/></a>
+  <a href="https://www.linkedin.com/in/raghav-gupta-381690284" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://instagram.com/raghavgupta_03" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="30" height="30" style="color: #E4405F;"/>
+  </a>
+  <a href="https://dev.to/raghavgupta" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dev-dot-to.svg" alt="Dev.to" width="30" height="30" style="color: #0A0A0A;"/>
+  </a>
 </p>
 
 ---
 
 _🚀 Building the decentralized future, one block at a time._
-
