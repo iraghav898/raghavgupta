@@ -29,14 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-#### 🌐 Web3 & Blockchain
-<p align="left">
-  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="Hardhat" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/trufflesuite/truffle-artwork/master/logo/truffle-logo.png" alt="Truffle" width="40" height="40"/>
-  <img src="https://ipfs.tech/_nuxt/img/ipfs-logo.1cfb2f3.svg" alt="IPFS" width="40" height="40"/>
-  <img src="https://www.hyperledger.org/wp-content/uploads/2020/08/hyperledger-fabric.png" alt="Hyperledger Fabric" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pinata_cloud/pinata_cloud-icon.svg" alt="Pinata" width="40" height="40"/>
-</p>
 
 #### 🖼️ Frontend & UI
 <p align="left">
@@ -45,24 +37,10 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
-#### 🧰 Tools & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/vercel-icon-2048x1229-wiw7vlf9.png" alt="Vercel" width="40" height="40"/>
-</p>
+
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavgupta&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavgupta&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
 
 ---
 
